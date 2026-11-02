@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 100" fill="none" role="img" aria-label="Van">
+  <rect width="160" height="100" rx="12" fill="#EEF2FF"/>
+  <ellipse cx="80" cy="85" rx="60" ry="5" fill="#C7D2FE" opacity=".7"/>
+  <path d="M24 30h66v44H24z" fill="#fff" stroke="#4F46E5" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M34 42h46M34 52h46" stroke="#C7D2FE" stroke-width="3" stroke-linecap="round"/>
+  <path d="M90 42h22l18 16v16H90z" fill="#6366F1" stroke="#4F46E5" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M97 48h12l10 10H97z" fill="#E0E7FF"/>
+  <circle cx="50" cy="75" r="10" fill="#1E293B"/><circle cx="50" cy="75" r="4" fill="#CBD5E1"/>
+  <circle cx="114" cy="75" r="10" fill="#1E293B"/><circle cx="114" cy="75" r="4" fill="#CBD5E1"/>
+</svg>

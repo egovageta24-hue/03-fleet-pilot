@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 100" fill="none" role="img" aria-label="Cargo bike">
+  <rect width="160" height="100" rx="12" fill="#EEF2FF"/>
+  <ellipse cx="80" cy="85" rx="56" ry="5" fill="#C7D2FE" opacity=".7"/>
+  <rect x="26" y="40" width="34" height="22" rx="3" fill="#fff" stroke="#4F46E5" stroke-width="3"/>
+  <path d="M33 50h20" stroke="#C7D2FE" stroke-width="3" stroke-linecap="round"/>
+  <path d="M60 60h30l12-22h10" stroke="#4F46E5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M90 60l-8-16h-12" stroke="#6366F1" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M96 38h14" stroke="#1E293B" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="44" cy="72" r="12" stroke="#1E293B" stroke-width="4"/>
+  <circle cx="116" cy="72" r="12" stroke="#1E293B" stroke-width="4"/>
+  <circle cx="44" cy="72" r="3" fill="#6366F1"/><circle cx="116" cy="72" r="3" fill="#6366F1"/>
+</svg>
